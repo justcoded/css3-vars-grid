@@ -1,0 +1,22 @@
+{
+  "name": "css3-vars-grid",
+  "version": "1.0.0",
+  "description": "Feature for faster building of grid of web-pages that based on CSS variables by JustCoded",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:justcoded/css3-vars-grid.git"
+  },
+  "keywords": [
+    "css3",
+    "variables",
+    "grid",
+    "JustCoded",
+    "jc"
+  ],
+  "author": "JustCoded",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justcoded/css3-vars-grid/issues"
+  },
+  "homepage": "https://github.com/justcoded/css3-vars-grid#readme"
+}
